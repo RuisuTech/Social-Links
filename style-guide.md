@@ -17,10 +17,10 @@ Los diseños fueron creados con las siguientes anchuras:
 
 ### Neutros
 
-- Blanco: hsl(0, 0%, 100%)
-- Gris: hsl(0, 0%, 20%)
-- Gris Oscuro: hsl(0, 0%, 12%)
-- Negro Apagado: hsl(0, 0%, 8%)
+- Blanco: hsl(0,0%,100%)
+- Gris: hsl(0,0%,20%)
+- Gris Oscuro: hsl(0,0%,12%)
+- Negro Apagado: hsl(0,0%,8%)
 
 ## Tipografía
 
