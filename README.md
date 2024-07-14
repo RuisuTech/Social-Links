@@ -16,8 +16,6 @@ Esta es una solución para el [desafío de perfil de enlaces sociales en Fronten
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
 
-**Nota: Borra esta nota y actualiza la tabla de contenidos basándote en las secciones que mantengas.**
-
 ## Visión general
 
 ### El desafío
@@ -29,14 +27,6 @@ Los usuarios deberían poder:
 ### Captura de pantalla
 
 ![Captura de pantalla](./src\assets\images\Social-Captura.png)
-
-**Añade una captura de pantalla de tu solución. La forma más fácil de hacer esto es usar Firefox para ver tu proyecto, hacer clic derecho en la página y seleccionar "Tomar captura de pantalla". Puedes elegir entre una captura de pantalla de altura completa o recortada según la longitud de la página. Si es muy larga, podría ser mejor recortarla.**
-
-**Alternativamente, puedes usar una herramienta como [FireShot](https://getfireshot.com/) para tomar la captura de pantalla. FireShot tiene una opción gratuita, así que no necesitas comprarla.**
-
-**Luego, recorta/optimiza/edita tu imagen como prefieras, añádela a tu proyecto y actualiza la ruta del archivo en la imagen de arriba.**
-
-**Nota: Borra esta nota y los párrafos anteriores cuando añadas tu captura de pantalla. Si prefieres no añadir una captura de pantalla, siéntete libre de eliminar toda esta sección.**
 
 ### Enlaces
 
@@ -52,8 +42,6 @@ Los usuarios deberían poder:
 - Flexbox
 - Flujo de trabajo móvil primero
 - [React](https://reactjs.org/) - Biblioteca JS
-
-**Nota: Estos son solo ejemplos. Borra esta nota y reemplaza la lista anterior con tus propias elecciones.**
 
 ### Lo que aprendí
 
