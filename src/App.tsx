@@ -9,7 +9,7 @@ function App() {
         <div className="bg-[#1f1f1f] w-[280px] md:w-[350px] rounded-xl p-4">
           <div className="flex justify-center items-center flex-col">
             <Perfil
-              img="src\assets\images\Gato.jpg"
+              img="./Gato.jpg"
               name="Jose Luis Guzman"
               ciudad="Lima, Peru"
               descripcion="Programador Autodidacta :D"
