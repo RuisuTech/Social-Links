@@ -26,7 +26,7 @@ Los usuarios deberían poder:
 
 ### Captura de pantalla
 
-![Captura de pantalla](./src\assets\images\Social-Captura.png)
+![Captura de pantalla](https://github.com/user-attachments/assets/a89f331a-607f-451f-832f-81a45d220e36)
 
 ### Enlaces
 
